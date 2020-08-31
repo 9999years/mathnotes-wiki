@@ -1,0 +1,7 @@
+created: 20200831192353060
+modified: 20200831192429354
+tags: [[Greatest Common Divisor]]
+title: Bézout's Identity
+type: text/vnd.tiddlywiki
+
+Let $$a$$ and $$b$$ be [[Integers]] with [[Greatest Common Divisor]] $$d$$. Then, there exist integers $$x$$ and $$y$$ such that $$ax + by = d$$. More generally, the integers of the form $$ax + by$$ are exactly the multiples of $$d$$. 

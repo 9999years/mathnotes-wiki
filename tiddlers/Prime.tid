@@ -1,0 +1,11 @@
+created: 20200831184902110
+modified: 20200831185336799
+tags: [[Number Theory]]
+title: Prime
+type: text/vnd.tiddlywiki
+
+A ''prime number'' is a [[Natural Number|Natural Numbers]] greater than 1 that is not the product of two smaller natural numbers.
+
+A natural number greater than 1 that is not prime is called a [[Composite Number]].
+
+The first 25 primes (all the primes less than 100) are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97 (sequence [[A000040|https://oeis.org/A000040]] in the OEIS).

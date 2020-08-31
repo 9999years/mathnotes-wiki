@@ -1,0 +1,7 @@
+created: 20200831182455198
+modified: 20200831185733588
+tags: [[Number Theory]]
+title: Divisibility
+type: text/vnd.tiddlywiki
+
+We say that $$m$$ divides $$n$$ (or $$m \mid n$$) if there exists some integer $$k$$ such that $$mk = n$$.

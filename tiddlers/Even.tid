@@ -1,0 +1,7 @@
+created: 20200831185642323
+modified: 20200831185704720
+tags: Parity
+title: Even
+type: text/vnd.tiddlywiki
+
+An [[Integer|Integers]] $$n$$ is ''even'' if there exists some integer $$k$$ such that $$n = 2k$$.

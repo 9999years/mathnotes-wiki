@@ -1,0 +1,9 @@
+created: 20200831184646411
+modified: 20200831190314437
+tags: Prime
+title: Relatively Prime
+type: text/vnd.tiddlywiki
+
+Two integers $$a$$ and $$b$$ are called ''relatively [[prime|Prime]]'' if $$\gcd(a, b) = 1$$ (see: [[Greatest Common Divisor]]).
+
+For example, 7 and 11 are relatively prime. 3 and 14 are relatively prime, as are 5 and 22, but 10 and 24 are not.

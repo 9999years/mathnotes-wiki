@@ -1,0 +1,9 @@
+created: 20200831180714545
+modified: 20200831184358241
+tags: [[Set Theory]]
+title: Subset
+type: text/vnd.tiddlywiki
+
+A ''subset'' of a Set $$S$$ is a set $$U$$ where every element of $$U$$ is in $$S$$.
+
+We write "$$U$$ is a subset of $$S$$" as $$U \subset S$$ or $$U \subseteq S$$.

@@ -1,0 +1,7 @@
+created: 20200831185429513
+modified: 20200831185633880
+tags: Parity
+title: Odd
+type: text/vnd.tiddlywiki
+
+An [[Integer|Integers]] $$n$$ is ''odd'' if there exists some integer $$k$$ such that $$n = 2k + 1$$.

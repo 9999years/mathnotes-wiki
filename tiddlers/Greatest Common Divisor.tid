@@ -1,0 +1,11 @@
+created: 20200831190338715
+modified: 20200831192314033
+tags: [[Number Theory]]
+title: Greatest Common Divisor
+type: text/vnd.tiddlywiki
+
+The ''greatest common divisor'' (or ''gcd'') of two [[Integers]] $$a$$ and $$b$$ (where $$a$$ and $$b$$ are not //both// zero) is the largest positive integer that [[divides|Divisibility]] each of them.
+
+For example, $$\gcd(8, 12) = 4$$.
+
+Alternatively, $$\gcd(a, b)$$ may be defined as the smallest positive integer $$d$$ which can be written in the form $$d = ap + bq$$, where $$p$$ and $$q$$ are integers. This expression is called [[Bézout's Identity]]. Values for $$p$$ and $$q$$ can be computed with the [[Extended Euclidean algorithm]].

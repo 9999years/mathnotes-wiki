@@ -1,0 +1,9 @@
+created: 20200831181336357
+modified: 20200831184350591
+tags: [[Set Theory]]
+title: Union
+type: text/vnd.tiddlywiki
+
+The ''union'' of two sets $$A$$ and $$B$$ is the set of all elements that are in //either// $$A$$ or $$B$$.
+
+We write "the union of $$A$$ and $$B$$" as $$A \cup B$$.
