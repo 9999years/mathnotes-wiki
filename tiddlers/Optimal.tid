@@ -1,0 +1,13 @@
+created: 20200901121455380
+modified: 20200901125022246
+tags: Feasible
+title: Optimal
+type: text/vnd.tiddlywiki
+
+A solution to an [[Optimization]] problem is [[Optimal]] in addition to [[Feasible]] if it has the smallest [[Objective]] value of all [[Feasible]] solutions.
+
+$$\vec x^*$$ is an ''optimal'' solution if $$f(\vec x^*) \le f(\vec x)$$ for all $$x \in S$$, where $$S$$ is the [[Feasible]] solution set.
+
+Note that because [[Minimizing]] $$f(\vec x)$$ is equivalent to [[Maximizing]] $$-f(\vec x)$$, we can specify all [[Optimization]] problems as minimization problems without loss of generality.
+
+Optimization problems do not always have optimal solutions, or even necessarily [[Feasible]] solutions. Further, optimal solutions may be unique, finite, or infinite in count.

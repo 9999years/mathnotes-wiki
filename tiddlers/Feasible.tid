@@ -1,0 +1,11 @@
+created: 20200901121349125
+modified: 20200901124907719
+tags: Optimization
+title: Feasible
+type: text/vnd.tiddlywiki
+
+A [[Solution]] to an [[Optimization]] problem is ''[[Feasible]]'' if it satisfies all of the problem's [[Constraint]]s.
+
+That is, a [[Vector]] $$\vec x \in S$$ where $$S$$ is the [[Constraint]] set is a ''feasible solution'' to that problem.
+
+Feasible solutions may additionally be [[Suboptimal]] or [[Optimal]].

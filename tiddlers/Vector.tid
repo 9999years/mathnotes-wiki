@@ -1,0 +1,7 @@
+created: 20200901123432567
+modified: 20200901123551158
+tags: Algebra
+title: Vector
+type: text/vnd.tiddlywiki
+
+A ''vector'' is an element of a [[Vector Space]]. Most often, we are concerned with ''Euclidean vectors'', which are vectors in $$\R^n$$; geometric objects with magnitude (or length) and direction.

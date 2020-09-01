@@ -1,0 +1,7 @@
+created: 20200901120559639
+modified: 20200901120636984
+tags: Optimization
+title: Optimization Variable
+type: text/vnd.tiddlywiki
+
+A variable to optimize, usually constrained by one or more [[Constraint]]s.

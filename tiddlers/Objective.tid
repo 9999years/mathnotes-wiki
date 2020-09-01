@@ -1,0 +1,11 @@
+created: 20200901121107193
+modified: 20200901122835061
+tags: Optimization
+title: Objective
+type: text/vnd.tiddlywiki
+
+A [[Function]] $$f : \R^n \to \R$$ to minimize or maximize in an [[Optimization]] problem.
+
+In $$\R^2$$, an ''objective function'' could be $$x^2 + 2y - 2$$.
+
+Though [[Multi-Objective Optimization]] is a field, it's beyond the scope of this course.

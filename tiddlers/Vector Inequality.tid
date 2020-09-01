@@ -1,0 +1,7 @@
+created: 20200901124413853
+modified: 20200901124556269
+tags: Inequality Vector
+title: Vector Inequality
+type: text/vnd.tiddlywiki
+
+The ''vector inequality'' $$\vec x \preceq \vec 0$$ means that each component of the [[Vector]] $$\vec x$$ is less than or equal to the corresponding component of $$\vec 0$$.

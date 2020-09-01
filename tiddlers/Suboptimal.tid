@@ -1,0 +1,7 @@
+created: 20200901121849977
+modified: 20200901122557385
+tags: Feasible
+title: Suboptimal
+type: text/vnd.tiddlywiki
+
+A solution which is "good enough" can be specified as an ''ε-suboptimal solution $$\vec x^*$$'', which is a [[Feasible]] solution $$\vec x^*$$ satisfying $$f(\vec x^*) \le f(\vec x) + \epsilon$$ for all feasible solutions $$\vec x$$; in other words, it is //at most// $$\epsilon$$ away from an [[Optimal]] solution.

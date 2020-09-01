@@ -1,0 +1,9 @@
+created: 20200901122106870
+modified: 20200901122341238
+tags: Optimization
+title: Solution
+type: text/vnd.tiddlywiki
+
+A [[Vector]] $$\vec x \in \R^n$$ is a ''solution'' to any [[Optimization]] problem for an [[Objective]] $$f : \R^n \to \R$$.
+
+A solution can be [[Feasible]], [[Optimal]], and/or [[Suboptimal]].
