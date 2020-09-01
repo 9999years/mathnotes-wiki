@@ -1,0 +1,12 @@
+created: 20200831211120768
+modified: 20200831212026511
+tags: Topology
+title: Basis
+type: text/vnd.tiddlywiki
+
+$$\mathcal{B} \subseteq \wp(X)$$ is a ''basis'' for a [[topology|Topological Space]] if
+
+# For each $$x \in X$$, there exists some $$b \in \mathcal{B}$$ such that $$x \in b$$ (each point in the space is contained in some basic set).
+# If $$b_1, b_2 \in \mathcal{B}$$ and $$x \in (b_1 \cap b_2)$$, there exists some $$b_3 \in \mathcal{B}$$ with $$x \in b_3$$ and $$b_3 \subseteq (b_1 \cap b_2)$$ ([[Intersection]]s of basic sets are contained in basic sets).
+
+Elements of $$\mathcal{B}$$ are called ''basic sets''.

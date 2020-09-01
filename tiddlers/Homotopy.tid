@@ -1,0 +1,14 @@
+created: 20200831212153003
+modified: 20200831213156690
+tags: Topology
+title: Homotopy
+type: text/vnd.tiddlywiki
+
+Two [[maps|Function]] $$f, g : X \to Y$$ are ''homotopic'' if $$f$$ can be "continuously deformed" into $$g$$.
+
+More precisely, there exists some [[Continuous]] map $$F : X \times I  \to Y$$ (where $$I = [0,1]$$) such that
+
+* $$F|_{X \times \{0\}} = f$$
+* $$F|_{X \times \{1\}} = g$$
+
+Two [[spaces|Topological Space]] are ''homotopy-equivalent'' if there exist maps $$f : X \to Y$$, $$g : Y \to X$$ such that $$g \circ f \simeq \text{id}_X$$ and $$f \circ g \simeq \text{id}_Y$$.

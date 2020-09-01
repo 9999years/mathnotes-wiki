@@ -1,0 +1,7 @@
+created: 20200831211006098
+modified: 20200831211113962
+tags: [[Set Theory]]
+title: Complement
+type: text/vnd.tiddlywiki
+
+The ''complement'' of a [[Set]] $$S$$ in an (often implicit) domain $$D$$ is the set $$D \setminus S$$, often written $$S^c$$.

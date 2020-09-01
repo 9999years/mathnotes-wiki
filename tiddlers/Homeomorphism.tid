@@ -1,0 +1,9 @@
+created: 20200831211606184
+modified: 20200831211823299
+tags: Topology
+title: Homeomorphism
+type: text/vnd.tiddlywiki
+
+If $$f : X \to Y$$ is a [[Bijection]] and $$f$$ and $$f^{-1}$$ are [[Continuous]], then $$f$$ is a ''homeomorphism''.
+
+If there exists a homeomorphism between two [[Topological Space]]s $$X$$ and $$Y$$, we say that they are ''homeomorphic'' and write $$X \cong Y$$.
