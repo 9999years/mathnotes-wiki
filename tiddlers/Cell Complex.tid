@@ -1,0 +1,11 @@
+created: 20200902140453445
+modified: 20200902143620825
+tags: Topology
+title: Cell Complex
+type: text/vnd.tiddlywiki
+
+A ''cell complex'' (or [[CW-complex]]) is a space $$X$$ together with subspaces $$X^0 \subset X^1 \subset X^2 \subset \dots$$ such that
+
+# $$X^0$$ is a [[Discrete]] [[Set]] of [[Points|Point (Topology)]]
+# $$X^i$$ is obtained from $$X^{i-1}$$ by attaching i-cells
+# $$U \subset X$$ is open if and only if $$U \cap X^i$$ is open for all $$i$$

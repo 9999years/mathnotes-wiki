@@ -1,0 +1,11 @@
+created: 20200902154557239
+modified: 20200902154755995
+tags: Function
+title: Inverse
+type: text/vnd.tiddlywiki
+
+The ''inverse'' $$f^{-1}$$ of a {{fn}} is defined by $$f^{-1}(x) = a$$ where $$f(a) = x$$.
+
+$$f^{-1} \circ f = \text{id}$$; a function composed with its inverse is the [[Identity Map]].
+
+<<see Bijective>>

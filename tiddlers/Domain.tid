@@ -1,0 +1,11 @@
+created: 20200902152320561
+modified: 20200902154509060
+tags: Function
+title: Domain
+type: text/vnd.tiddlywiki
+
+The [[Set]] of values a [[Function]] maps values //from// to its [[Range]].
+
+The domain of $$f : A \to B$$ is $$A$$.
+
+<<see Range>>

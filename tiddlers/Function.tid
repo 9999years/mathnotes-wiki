@@ -1,9 +1,13 @@
 created: 20200901120938497
-modified: 20200901121029602
+modified: 20200902154110129
 tags: [[Set Theory]]
 title: Function
 type: text/vnd.tiddlywiki
 
-A ''function'' $$f : X \to Y$$ is a mapping associating every value $$x \in X$$ with a single value $$y \in Y$$.
+A ''function'' (or ''map'') $$f : X \to Y$$ is a mapping associating every value $$x \in X$$ with a single value $$y \in Y$$.
+
+We call the set $$X$$ that $$f$$ maps values //from// its [[Domain]], and the set $$Y$$ that $$f$$ maps values //to// its [[Range]].
 
 Functions can be [[Injective]], [[Surjective]], and/or [[Bijective]].
+
+<<list-links "[tag[Function]]">>

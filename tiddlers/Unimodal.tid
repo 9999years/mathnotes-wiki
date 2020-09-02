@@ -1,0 +1,9 @@
+created: 20200901211946869
+modified: 20200901212122924
+tags: Objective
+title: Unimodal
+type: text/vnd.tiddlywiki
+
+An [[Objective]] function $$f : [a, b] \to \R$$ is ''unimodal'' if there exists a point $$x^* \in [a,b]$$ such that $$f$$ is [[Monotone Decreasing]] on $$[a, x^*]$$ and [[Monotone Increasing]] on $$[x^*, b]$$.
+
+For [[Continuous]] functions, unimodality is equivalent to having a unique relative minimum.

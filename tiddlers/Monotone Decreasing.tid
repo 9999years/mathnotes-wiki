@@ -1,0 +1,7 @@
+created: 20200901212150585
+modified: 20200901212240380
+tags: Function
+title: Monotone Decreasing
+type: text/vnd.tiddlywiki
+
+A function $$f : \R \to \R$$ is ''monotone decreasing'' on $$[a, b]$$ if for all $$p, q$$ with $$a \le p < q \le b$$ we have $$f(p) > f(q)$$.

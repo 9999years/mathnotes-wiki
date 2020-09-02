@@ -1,5 +1,7 @@
 created: 20200831212402015
-modified: 20200831212406376
-tags: Topology
+modified: 20200902151450754
+tags: Homotopy
 title: Contractible
 type: text/vnd.tiddlywiki
+
+A {{topsp}} having the [[Homotopy Type]] of a point is called ''contractible''.

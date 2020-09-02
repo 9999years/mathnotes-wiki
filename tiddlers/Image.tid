@@ -1,0 +1,9 @@
+created: 20200902142417409
+modified: 20200902154439983
+tags: Function
+title: Image
+type: text/vnd.tiddlywiki
+
+The ''image'' of a [[Function]] $$f : A \to B$$ is the set of points $$\{f(a) : a \in A\}$$, i.e. the subset of $$f$$'s [[Range]] covered by $$f$$.
+
+<<see "Range Domain">>

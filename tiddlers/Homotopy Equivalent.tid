@@ -1,0 +1,7 @@
+created: 20200902143202068
+modified: 20200902151227501
+tags: Homotopy
+title: Homotopy Equivalent
+type: text/vnd.tiddlywiki
+
+Two {{sp}}s are ''homotopy-equivalent'' if there exist maps $$f : X \to Y$$, $$g : Y \to X$$ such that $$g \circ f \simeq \text{id}_X$$ and $$f \circ g \simeq \text{id}_Y$$.

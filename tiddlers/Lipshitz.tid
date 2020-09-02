@@ -1,0 +1,9 @@
+created: 20200901225359066
+modified: 20200901225635527
+tags: Optimization
+title: Lipshitz
+type: text/vnd.tiddlywiki
+
+For $$A \subseteq \R^n$$, a [[Function]] $$f : A \to \R$$ is ''//L//-Lipshitz'' if for all $$\vec x, \vec y \in A$$, $$|f(\vec x) - f(\vec y) \le L\|\vec x - \vec y\|$$.
+
+Lipshitz-ness is a //smoothness// condition; it says the function can't make any sharp jumps, since nearby inputs need to have nearby outputs. Lipshitz functions are a subset of [[Continuous]] functions.

@@ -1,0 +1,12 @@
+created: 20200901211258631
+modified: 20200901211519908
+tags: Optimization
+title: Linear Program
+type: text/vnd.tiddlywiki
+
+An [[Optimization]] problem that can be specified by a linear (I hope you remember [[Linear Algebra]]...) [[Objective]] function and linear inequality constraints; in other words, problems of the form:
+
+* minimize $$\vec c^T \vec x$$
+* subject to $$A\vec x \preceq \vec b$$
+
+With $$\vec x, \vec c \in \R^n$$, $$A \in \R^{m\times n}$$, $$\vec b \in \R^m$$.

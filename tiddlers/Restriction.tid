@@ -1,0 +1,7 @@
+created: 20200902142001330
+modified: 20200902142146148
+tags: Function
+title: Restriction
+type: text/vnd.tiddlywiki
+
+The ''restriction'' of a [[Function]] $$f : A \to B$$ to a set $$D \subseteq A$$ is the function $$f|D : D \to B$$ given by $$d \mapsto f(d)$$; we "view" $$f$$ as a function defined on (or //restricted to//) a subset of its domain.

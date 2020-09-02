@@ -1,0 +1,7 @@
+created: 20200901211546527
+modified: 20200901211634464
+tags: Optimization
+title: Query Model
+type: text/vnd.tiddlywiki
+
+A ''query model'' describes how an [[Algorithm]] can interact with an [[Optimization]] problem it's supposed to solve.

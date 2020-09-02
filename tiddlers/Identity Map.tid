@@ -1,0 +1,7 @@
+created: 20200902142602040
+modified: 20200902142658968
+tags: Function
+title: Identity Map
+type: text/vnd.tiddlywiki
+
+The ''identity map'' or ''identity function'' on a set $$X$$ is the function $$\text{id}_X : X \to X$$ given by $$x \mapsto x$$. The identity function is always [[Bijective]].

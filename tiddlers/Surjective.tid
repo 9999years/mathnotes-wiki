@@ -1,0 +1,11 @@
+created: 20200902152120755
+modified: 20200902155007963
+tags: Function
+title: Surjective
+type: text/vnd.tiddlywiki
+
+A {{fn}} is ''surjective'' if for each $$b \in B$$, there exists //at least one// $$a \in A$$ such that $$f(a) = b$$.
+
+In other words, the [[Image]] of $$f$$ is equal to $$f$$'s [[Domain]].
+
+<<see "Injective Bijective">>

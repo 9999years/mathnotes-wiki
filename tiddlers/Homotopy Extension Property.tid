@@ -1,0 +1,13 @@
+created: 20200902145220049
+modified: 20200902151240991
+tags: Homotopy
+title: Homotopy Extension Property
+type: text/vnd.tiddlywiki
+
+Given a {{topsp}} $$X$$ and a [[Subpsace]] $$A \subseteq X$$, we say $$(X, A)$$ has the ''homotopy extension property'' if:
+
+* for any map $$f : X \to Y$$
+* and any [[Homotopy]] $$F : A \times I \to Y$$ with $$F|A \times \{0\} = f|A$$,
+* there exists a homotopy $$\hat F : X \times I \to Y$$, such that:
+** $$\hat F|X \times \{0\} = f$$
+** $$\hat F|A \times I = F$$

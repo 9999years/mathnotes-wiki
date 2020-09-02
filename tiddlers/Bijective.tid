@@ -1,0 +1,7 @@
+created: 20200902154800050
+modified: 20200902154936830
+tags: Function
+title: Bijective
+type: text/vnd.tiddlywiki
+
+A {{fn}} is ''bijective'' if for each $$b \in B$$ there is //exactly// one $$a \in A$$ such that $$f(a) = b$$; a bijective function is both [[Surjective]] and [[Injective]], and bijective functions are always [[Invertible|Inverse]].

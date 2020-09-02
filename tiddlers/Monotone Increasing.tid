@@ -1,0 +1,7 @@
+created: 20200901212251003
+modified: 20200901212304796
+tags: Function
+title: Monotone Increasing
+type: text/vnd.tiddlywiki
+
+A function $$f : \R \to \R$$ is ''monotone increasing'' on $$[a, b]$$ if for all $$p, q$$ with $$a \le p < q \le b$$ we have $$f(p) < f(q)$$.

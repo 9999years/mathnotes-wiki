@@ -1,0 +1,9 @@
+created: 20200902142520349
+modified: 20200902154544647
+tags: Function
+title: Range
+type: text/vnd.tiddlywiki
+
+The [[Set]] of values a {{fn}} maps values in its [[Domain]] $$A$$ //to// i.e. $$B$$.
+
+<<see "Domain Image">>

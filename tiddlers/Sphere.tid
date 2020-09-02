@@ -1,0 +1,7 @@
+created: 20200902140917942
+modified: 20200902151036677
+tags: [[Examples of Topological Spaces]]
+title: Sphere
+type: text/vnd.tiddlywiki
+
+The ''//n//-Sphere'' $$S^n$$ is the [[Set]] of all points in $$\R^{n+1}$$ that are distance 1 from the [[Origin]].

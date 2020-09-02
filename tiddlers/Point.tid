@@ -1,9 +1,9 @@
 created: 20200831175146962
 creator: Rebecca Turner
-modified: 20200831184419090
+modified: 20200902151333959
 modifier: Rebecca Turner
 tags: Topology
-title: Point (Topology)
+title: Point
 type: text/vnd.tiddlywiki
 
-An [[Element]] of an [[Open Set]] in a [[Topological Space]].
+An [[Element]] of an [[Open Set]] in a {{topsp}}.

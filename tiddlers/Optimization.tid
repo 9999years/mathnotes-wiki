@@ -1,5 +1,5 @@
 created: 20200901115812952
-modified: 20200901123803292
+modified: 20200901225706060
 tags: TableOfContents
 title: Optimization
 type: text/vnd.tiddlywiki
@@ -12,5 +12,7 @@ A ''mathematical optimization problem'' has the form:
 In which $$\vec x \in \R^n$$ is the [[Optimization Variable]], $$f : \R^n \to \R$$ is the [[Objective]] [[Function]], and the [[Set]] $$S \subseteq \R^n$$  represents the [[Constraint]]s on $$\vec x$$.
 
 Any [[Vector]] $$\vec x$$ satisfying all [[Constraint]]s is called a [[Feasible]] [[Solution]] (here, the set of all [[Feasible]] solutions is $$S$$).
+
+There are a variety of [[algorithms|Optimization Algorithm]] for solving optimization problems.
 
 <<list-links "[tag[Optimization]]">>

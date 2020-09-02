@@ -1,0 +1,9 @@
+created: 20200902144027428
+modified: 20200902151036688
+tags: [[Examples of Topological Spaces]]
+title: Disk
+type: text/vnd.tiddlywiki
+
+The ''unit disk'' or ''ball'' in $$\R^n$$ is denoted $$D^n$$ and contains all points of distance $$\le$$ 1 from the [[Origin]].
+
+Note that $$\partial D^n = S^n$$, the [[Boundary]] of the $$n$$-disk is the $$n-1$$-[[Sphere]].
