@@ -1,0 +1,11 @@
+created: 20200907183219249
+modified: 20200907183713729
+tags: [[Examples of Topological Spaces]]
+title: Manifold
+type: text/vnd.tiddlywiki
+
+A {{topsp}} that's locally similar to [[Euclidean Space]].
+
+Formally, an $$n$$-dimensional manifold or an ''$$n$$-manifold'' is a {{topsp}} where each [[Point]] has a [[Neighborhood]] that is [[Homeomorphic]] to $$n$$-dimensional [[Euclidean Space]].
+
+1-manifolds include lines and circles, but not figure eights (where the crossing point isn't homeomorphic to $$\R$$), and 2-manifolds (also called ''surfaces'') include planes, [[Sphere]]s, and [[Tori|Torus]], but also the [[Klein Bottle]].

@@ -1,0 +1,16 @@
+alias: Retraction
+created: 20200907174414039
+modified: 20200907181206770
+tags: Topology
+title: Retract
+type: text/vnd.tiddlywiki
+
+A [[Subspace]] $$A \subseteq X$$ is a ''retract'' if there exists a {{cmap}} (called a ''retraction'') $$r : X \to A$$ such that $$r|A = \text{id}_A$$.
+
+Equivalently, one could regard a retraction as a map $$X \to A$$ restricting to the [[Identity Map]] on the subspace $$A \subseteq X$$.
+
+Again alternately, we could say a retraction is a map $$r : X \to X$$ with $$r^2 = r$$ (i.e. $$r$$ is the identity on its [[Image]]).
+
+Retractions are the topological analogs of [[''projection operators''|https://en.wikipedia.org/wiki/Projection_(linear_algebra)]] in other parts of mathematics.
+
+A stronger condition is a [[Deformation Retract]].

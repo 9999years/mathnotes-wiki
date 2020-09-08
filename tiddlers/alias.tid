@@ -1,0 +1,11 @@
+created: 20200907175633897
+modified: 20200907175639560
+tags: Template
+title: alias
+type: text/vnd.tiddlywiki
+
+\define find_original()
+<$list filter="[field:alias/\|$(the_alias)$\|/(i)sort[title]limit[1]]"><$link>{{$(the_alias)$||unwikified}}</$link></$list>
+\end
+
+<$set name="the_alias" value={{!!title}}><<find_original>></$set>

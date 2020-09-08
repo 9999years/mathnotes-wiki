@@ -1,0 +1,7 @@
+created: 20200906212753998
+modified: 20200907185532786
+tags: Continuous
+title: Continuous at a Point
+type: text/vnd.tiddlywiki
+
+A {{fn}} between {{topsps}} is ''continuous at $$x$$'' if for every [[Neighborhood]] $$V$$ of $$f(x)$$, there exists a neighborhood $$U$$ of $$x$$ such that $$f(U) \subseteq V$$.

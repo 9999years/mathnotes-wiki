@@ -1,0 +1,9 @@
+created: 20200906211313543
+modified: 20200906211420096
+tags: Topology
+title: Neighborhood
+type: text/vnd.tiddlywiki
+
+A ''neighborhood of a [[Point]] $$x$$'' in a {{topsp}} is an [[Open Set]] that contains $$x$$.
+
+<<see "[[Open Set]]">>

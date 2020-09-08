@@ -1,0 +1,11 @@
+created: 20200907190821713
+modified: 20200907191444288
+tags: Topology
+title: Gluing
+type: text/vnd.tiddlywiki
+
+To "glue" two {{topsps}} $$X_1$$ and $$X_2$$ together, we "attach" some set of points in $$X_1$$ to [[Point]]s in $$X_2$$.
+
+First, we identify a [[Subspace]] $$A \subseteq X_1$$ and specify some {{map}} $$f : A \to X_2$$ which attaches $$A$$ to $$X_2$$.
+
+Then, we define the glued space $$Y$$ to be the [[Quotient Topology]] of the [[Disjoint Union]] $$X_1 \amalg X_2$$ where $$a \sim x_2$$ if $$f(a) = x_2$$, which Prof. Charney writes $$Y = X_1 \amalg X_2 / a = f(a) \; \forall a \in A$$, or more simply $$X_1 \cup_f X_2$$.

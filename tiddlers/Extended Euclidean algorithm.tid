@@ -1,7 +1,7 @@
 created: 20200831192521761
-modified: 20200831192713392
+modified: 20200906205126049
 tags: [[Greatest Common Divisor]]
 title: Extended Euclidean algorithm
 type: text/vnd.tiddlywiki
 
-[[See Wikipedia|https://en.wikipedia.org/wiki/Euclidean_algorithm#Procedure]]
+<<see wiki:"Euclidean algorithm#Procedure">>

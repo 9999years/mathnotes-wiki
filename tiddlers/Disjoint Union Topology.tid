@@ -1,0 +1,10 @@
+created: 20200906213032616
+modified: 20200907185542818
+tags: [[Examples of Topological Spaces]]
+title: Disjoint Union Topology
+type: text/vnd.tiddlywiki
+
+The ''disjoint union'' of two {{topsps}} $$X$$ and $$Y$$ is denoted $$X \amalg Y$$ and is given by
+
+* The [[Point]]s are the [[Disjoint Union]] $$X \amalg Y$$
+* A [[Subset]] $$U \subseteq X \amalg Y$$ is [[Open|Open Set]] if and only if $$U \cap X$$ and $$U \cap Y$$ are open.

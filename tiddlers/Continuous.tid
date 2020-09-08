@@ -1,0 +1,12 @@
+created: 20200906212504842
+modified: 20200907185525118
+tags: Topology
+title: Continuous
+type: text/vnd.tiddlywiki
+
+A {{fn}} between {{topsps}} is ''continuous'' if for every [[Open Set]] $$V \subseteq B$$, $$f^{-1}(V)$$ is open in $$A$$.
+
+Equivalently, $$f$$ is continuous if and only if either of the following conditions holds:
+
+# $$f$$ is [[continuous at|Continuous at a Point]] all $$a \in A$$.
+# For every [[Closed Set]] $$V \subseteq B$$, $$f^{-1}(V)$$ is closed in $$A$$.

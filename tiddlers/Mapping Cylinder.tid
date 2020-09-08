@@ -1,0 +1,9 @@
+created: 20200906030249019
+modified: 20200907191119838
+tags: Topology
+title: Mapping Cylinder
+type: text/vnd.tiddlywiki
+
+For a {{map}} between {{topsps}} $$f : X \to Y$$, the ''mapping cylinder'' $$M_f$$ is the [[Quotient Space|Quotient Topology]] of the [[Disjoint Union]] $$(X \times I) \amalg Y$$ obtained by identifying each $$(x,1) \in X \times I$$ with each $$f(x) \in Y$$.
+
+[img[Mapping Cylinder.png]]

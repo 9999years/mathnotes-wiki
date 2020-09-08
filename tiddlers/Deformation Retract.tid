@@ -1,0 +1,16 @@
+alias: Deformation Retraction
+created: 20200902141149846
+modified: 20200907181329157
+tags: Retract
+title: Deformation Retract
+type: text/vnd.tiddlywiki
+
+A [[Subspace]] $$A \subseteq X$$ is called a ''deformation retract'' of $$X$$ if there is a [[Homotopy]] $$F : X \times I \to X$$ (called a [[Retract]]) such that for all $$x \in X$$,
+
+# $$F_0 = \text{id}_X$$
+# $$F_1(X) \subseteq A$$
+# $$F_1|A = \text{id}_A$$
+
+A deformation retract is also a [[Retract]] because the homotopy $$F : X \times I \to X$$ defines a {{cmap}} $$f : X \times X$$ given by $$x \mapsto F_1(x)$$.
+
+Note that the deformation retraction is a special case of a [[Homotopy]]; in these terms, a deformation retraction of $$X$$ onto a subspace $$A$$ is a homotopy from $$\text{id}_X$$ to a [[Retraction|Retract]] of $$X$$ onto $$A$$.

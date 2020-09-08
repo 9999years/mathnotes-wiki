@@ -1,9 +1,9 @@
 created: 20200902142910164
-modified: 20200902143055592
+modified: 20200907181238837
 tags: Homotopy
 title: Homotopy Rel
 type: text/vnd.tiddlywiki
 
 A [[Homotopy]] $$f_t : X \to Y$$ whose [[Restriction]] to a [[Subspace]] $$A \subset X$$ is independent of $$t$$ is called a ''homotopy relative to $$A$$'' or a ''homotopy rel $$A$$''.
 
-A [[Deformation Retraction]] of $$X$$ onto $$A$$ is a homotopy rel $$A$$ from the [[Identity Map]] of $$X$$ to a [[Retraction]] of $$X$$ onto $$A$$.
+A [[Deformation Retraction|Deformation Retract]] of $$X$$ onto $$A$$ is a homotopy rel $$A$$ from the [[Identity Map]] of $$X$$ to a [[Retraction|Retract]] of $$X$$ onto $$A$$.

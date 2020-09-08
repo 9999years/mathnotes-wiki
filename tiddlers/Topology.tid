@@ -1,5 +1,6 @@
+alias: Topological Space
 created: 20200831174227815
-modified: 20200902151412594
+modified: 20200907175653529
 tags: TableOfContents
 title: Topology
 type: text/vnd.tiddlywiki
@@ -14,4 +15,4 @@ We call $$\mathcal{T}$$ a ''topology'' on $$X$$.
 
 We call elements of $$X$$ [[Point]]s.
 
-<<list-links "[tag[Topology]]">>
+<<pagetoc>>

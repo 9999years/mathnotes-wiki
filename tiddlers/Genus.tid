@@ -1,0 +1,10 @@
+created: 20200906205853477
+modified: 20200906210451583
+tags: Topology
+title: Genus
+type: text/vnd.tiddlywiki
+
+The ''genus'' of an [[Orientable|Orientability]] is an integer representing number of "holes" an object has; the [[Sphere]] and [[Disc]] both have genus zero, and a [[Torus]] has genus one.
+
+An orientable surface $$M_g$$ of genus $$g$$ can be constructed from a polygon with $$4g$$ sides by identifying pairs of edges, a shown below for the cases $$g = 1,2,3$$. The $$4g$$ edges of the polygon become a union of $$2g$$ circles in the surface, all intersecting at a single point.
+[img[Constructing surfaces of a given genus.png]]

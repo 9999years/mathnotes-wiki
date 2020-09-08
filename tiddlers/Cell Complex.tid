@@ -1,10 +1,17 @@
 created: 20200902140453445
-modified: 20200902143620825
+modified: 20200906214357445
 tags: Topology
 title: Cell Complex
 type: text/vnd.tiddlywiki
 
-A ''cell complex'' (or [[CW-complex]]) is a space $$X$$ together with subspaces $$X^0 \subset X^1 \subset X^2 \subset \dots$$ such that
+A ''cell complex'' (or [[CW-complex]]) is a space $$X$$ together with subspaces $$X^0 \subset X^1 \subset X^2 \subset \dots$$ built as follows:
+
+# Start with a set of points $$X^0$$.
+# Define $$X^1$$ by taking some line segments (copies of $$D^1$$) and fusing the endpoints (copies of $$S^0$$) onto $$X^0$$.
+# Define $$X^2$$ by taking copies of $$D^2$$ (a [[Disk]]) and welding its [[Boundary]] (a copy of $$S^1$$) onto $$X^1$$.
+# Repeat inductively; if we repeat up to $$n$$, we say $$X$$ is $$n$$-dimensional.
+
+The resulting space $$X$$ is the ''cell complex''. The [[Set]] $$X^k$$ is called the $$k$$-skeleton of $$X$$. Each $$D^k$$ is called a $$k$$-cell.
 
 # $$X^0$$ is a [[Discrete]] [[Set]] of [[Points|Point (Topology)]]
 # $$X^i$$ is obtained from $$X^{i-1}$$ by attaching i-cells

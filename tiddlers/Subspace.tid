@@ -1,0 +1,7 @@
+created: 20200906211453776
+modified: 20200906211838025
+tags: [[Examples of Topological Spaces]]
+title: Subspace
+type: text/vnd.tiddlywiki
+
+For a [[Subset]] $$Y$$ of a {{topsp}} $$X$$, ''$$Y$$ with the subspace topology from $$X$$'' is formed by defining $$\mathcal{T}_Y = \{U \cap Y : U \text{ open in } X\}$$.

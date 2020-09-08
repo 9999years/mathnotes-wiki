@@ -1,7 +1,9 @@
 created: 20200901122846937
-modified: 20200901122915552
+modified: 20200906205130618
 tags: Optimization
 title: Multi-Objective Optimization
 type: text/vnd.tiddlywiki
 
-[[Optimization]] problems with multiple [[Objective]]s. See [[Wikipedia|https://en.wikipedia.org/wiki/Multi-objective_optimization]].
+[[Optimization]] problems with multiple [[Objective]]s.
+
+<<see wiki:"Multi-objective optimization">>

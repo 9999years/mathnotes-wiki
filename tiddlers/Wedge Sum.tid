@@ -1,0 +1,13 @@
+created: 20200906213311129
+modified: 20200907185625601
+tags: [[Examples of Topological Spaces]]
+title: Wedge Sum
+type: text/vnd.tiddlywiki
+
+Two {{topsp}}s fused together at a single base point.
+
+If $$X$$ and $$Y$$ are {{topsps}} with points $$x_0 \in X$$ and $$y_0 \in Y$$, we define the [[Equivalence Relation]] $$\sim$$ by declaring that $$x_0 \sim y_0$$ only. Then, the ''wedge sum'' of two spaces is defined as $$X \vee Y = (X \amalg Y)/\sim$$.
+
+For example, the wedge sum $$S^1 \vee S^1$$. is a "figure eight".
+
+<<see "[[Product]]">>

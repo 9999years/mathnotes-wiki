@@ -1,0 +1,8 @@
+alias: Homeomorphism
+created: 20200907185436797
+modified: 20200907185801566
+tags: Topology
+title: Homeomorphic
+type: text/vnd.tiddlywiki
+
+Two {{topsps}} $$X$$ and $$Y$$ are ''homeomorphic'' (written $$X \cong Y$$) if there exists a [[Bijection|Bijective]] [[Function]] (called a ''homeomorphism'') $$f : X \to Y$$ such that $$f$$ and $$f^{-1}$$ are [[Continuous]].

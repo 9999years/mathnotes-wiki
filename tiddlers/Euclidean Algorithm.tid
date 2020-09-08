@@ -1,0 +1,16 @@
+created: 20200902181706688
+modified: 20200902182653745
+tags: [[Greatest Common Divisor]]
+title: Euclidean Algorithm
+type: text/vnd.tiddlywiki
+
+Given integers $$a, b > 0$$ we apply division with remainder repeatedly as follows:
+
+```python
+def euclidean_gcd(a: int, b: int) -> int:
+    """Determines the GCD of ``a`` and ``b`` with the Euclidean Algorithm.
+    """
+    while a != 0:
+        a, b = b % a, a
+    return b
+```

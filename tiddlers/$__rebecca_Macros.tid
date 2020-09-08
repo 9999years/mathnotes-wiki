@@ -1,0 +1,27 @@
+created: 20200902152657223
+modified: 20200906205113068
+tags: $:/tags/Macro
+title: $:/rebecca/Macros
+type: text/vnd.tiddlywiki
+
+\define see(filter, wiki, type:"ul", subtype:"li", class:"", emptyMessage)
+!!! See also:
+<$type$ class="$class$">
+<$list filter="$filter$" emptyMessage=<<__emptyMessage__>>>
+<$subtype$>
+<$link to={{!!title}}>
+<$transclude field="caption">
+<$view field="title"/>
+</$transclude>
+</$link>
+</$subtype$>
+</$list>
+<$macrocall $name=".if" cond="$wiki$" then="""<$subtype$><<wikipedia "$wiki$">></$subtype$>""" else="">
+</$type$>
+\end
+
+\define pagetoc()
+<div class="tc-table-of-contents">
+<$macrocall $name="toc-selective-expandable" tag={{!!title}}>
+</div>
+\end
