@@ -1,5 +1,5 @@
 created: 20200831212153003
-modified: 20200902143212192
+modified: 20200908200932687
 tags: Topology
 title: Homotopy
 type: text/vnd.tiddlywiki
@@ -10,3 +10,5 @@ More precisely, there exists some [[Continuous]] map $$F : X \times I  \to Y$$ (
 
 * $$F|_{X \times \{0\}} = f$$
 * $$F|_{X \times \{1\}} = g$$
+
+<<see "[[Homotopy Equivalent]] [[Homotopy Type]] [[Homotopy Extension Property]] [[Homotopy Rel]] [[Mapping Cylinder]]">>

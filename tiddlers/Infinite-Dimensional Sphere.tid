@@ -1,0 +1,7 @@
+created: 20200909141113914
+modified: 20200909141222571
+tags: Sphere [[Examples of Topological Spaces]]
+title: Infinite-Dimensional Sphere
+type: text/vnd.tiddlywiki
+
+We can build up a [[Sphere]] by gluing on 2 [[Cell]]s in every dimension. The ''infinite-dimensional sphere'' $$S^\infty$$ is the limit of the sphere $$S^n$$ as $$n \to \infty$$.
